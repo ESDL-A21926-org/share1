@@ -7,5 +7,6 @@ int main()
   cin>>a>>b;
   c=a+b;
   cout<<"Adition is:"<<c;
+	cout<<"*********this is good prog*********";
   return 0;
 }
