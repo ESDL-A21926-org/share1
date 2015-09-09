@@ -7,5 +7,6 @@ int main()
   cin>>a>>b;
   c=a+b;
   cout<<"Adition is:"<<c;
+cout<<"This is calci program";
   return 0;
 }
